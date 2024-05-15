@@ -1,0 +1,2 @@
+# clasenuevogit
+ curso de programacion
